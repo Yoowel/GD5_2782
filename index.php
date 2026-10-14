@@ -12,7 +12,7 @@ session_start();
 <body>
 
   <header class="site-header">
-    <div class="logo">SplitYuk</div>
+    <div class="logo"><h1>SplitYuk</h1></div>
     <nav>
       <a href="index.php">Beranda</a>
       <a href="login.php">Mulai Patungan</a>

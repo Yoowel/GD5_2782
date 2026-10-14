@@ -23,7 +23,7 @@ foreach ($_SESSION["daftarItem"] as $item) {
 </head>
 <body>
   <header class="site-header">
-    <div class="logo">SplitYuk</div>
+    <div class="logo"><h1>SplitYuk</h1></div>
     <nav>
       <a href="index.php">Beranda</a>
       <a href="prosesLogout.php">Keluar</a>

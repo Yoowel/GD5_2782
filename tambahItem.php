@@ -15,7 +15,7 @@ if (!isset($_SESSION["host"])) {
 </head>
 <body>
   <header class="site-header">
-    <div class="logo">SplitYuk</div>
+    <div class="logo"><h1>SplitYuk</h1></div>
     <nav>
       <a href="dashboard.php">Dashboard</a>
       <a href="prosesLogout.php">Keluar</a>
