@@ -98,3 +98,23 @@ main {
   color: #cf222e;
   margin-bottom: 12px;
 }
+
+@media (max-width: 600px) {
+  .site-header {
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px;
+  }
+
+  main {
+    padding: 16px;
+  }
+
+  .daftar-item {
+    flex-direction: column;
+  }
+
+  .kartu-item {
+    width: 100%;
+  }
+}
